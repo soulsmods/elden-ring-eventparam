@@ -2,7 +2,7 @@
 
 Documentation for Elden Ring event flag IDs. Feel free to use this data for any purpose without attribution, but you may wish to link back to this document so the source material is accessible.  
   
-[Source files](https://mega.nz/file/d650GCZB#4iVVzYC3ENYzbmbrpUObTHzBuNVhBtw_XySfiuYAVVY)  
+[Download source files](https://mega.nz/file/s6g1nIDZ#4SU4qjNjIVY6m-L_Mqa04pgJUWurcacyzm-AKxs0QHs)  
 
 | Column | Description |
 | --- | --- |
